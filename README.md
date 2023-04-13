@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 </p>
 
 <ul>
-  <li>I'm based in Abuja, Nigeria...</li>
-  <li>I'm learning React Js...</li>
-  <li>See my Portfolio at <a href="">Othniel</a>...</li>
-  <li>You can contact me at <a href="mailto:othnielabalaka@gmail.com">othnielabalaka@gmail.com</a>...</li>
-  <li>I learn fast...</li>
-  <li>I am open to any collaborations on Projects that will help me as a developer</li>
+  <li>🇳🇬 I'm based in Abuja, Nigeria...</li>
+  <li>🧠 I'm learning React Js...</li>
+  <li>📺 See my Portfolio at <a href="">Othniel</a>...</li>
+  <li>📩 You can contact me at <a href="mailto:othnielabalaka@gmail.com">othnielabalaka@gmail.com</a>...</li>
+  <li>⚡️ I learn fast...</li>
+  <li>🤝 I am open to any collaborations on Projects that will help me as a developer</li>
 </ul>
 
 ![Profile views](https://gpvc.arturio.dev/Othniel01)
