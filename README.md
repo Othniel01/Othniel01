@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <li>🤝 I am open to any collaborations on Projects that will help me as a developer</li>
 </ul>
 
-![Profile views](https://gpvc.arturio.dev/Othniel01)
+![](https://komarev.com/ghpvc/?username=Othniel01&color=green)
 
 
 <h1>SKILLS</h1>
@@ -50,6 +50,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,html,js,css,react,figma" />
   </a>
 </p>
+
+<h1>ACTIVITY</h1>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Othniel01)](https://git.io/streak-stats)
 
 <h1>SOCIALS</h1>
 <p>
