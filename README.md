@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 </p>
 
 <h1>ACTIVITY</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Othniel01)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Othniel01&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 
 <h1>SOCIALS</h1>
 <p>
