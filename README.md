@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Othniel01&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 
+[![An image of @othniel01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othniel01)](https://holopin.io/@othniel01)
+
 <h1>SOCIALS</h1>
 <p>
   <a href="https://twitter.com/AtOthnielcodes?t=TI6swStAOVH5xij854RSpA&s=08">
