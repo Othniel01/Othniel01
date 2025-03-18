@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <h1>ACTIVITY</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Othniel01&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Othniel01&hide_border=true)](https://git.io/streak-stats)
 
 [![An image of @othniel01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othniel01)](https://holopin.io/@othniel01)
 
