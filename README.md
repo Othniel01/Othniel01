@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <h1>SKILLS</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,js,css,react,figma,nextjs,ts,vite,threejs,tailwind,mongodb,nodejs,c" />
+    <img src="https://skillicons.dev/icons?i=git,html,js,css,react,figma,nextjs,ts,python,threejs,tailwind,mongodb,nodejs,c" />
   </a>
 </p>
 
