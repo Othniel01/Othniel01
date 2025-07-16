@@ -1,4 +1,3 @@
-### Hey There 👋
 
 <!--
 **Othniel01/Othniel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 OTHNIEL ABALAKA (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/Othniel01) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/Othniel01)
 
-<h1>I AM OTHNIEL OJOCHONU ABALAKA</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9B1EB1&width=435&lines=Talented+Software+Engineer;Open-source+contributor;Interested+in+AI%2FML+engineering;Computer+scientist+researcher;Amateur+Gamer)](https://git.io/typing-svg)
+
 <p>
 Hi, I’m Othniel, a full-stack software engineer with 3+ years of experience building products that power real businesses.
 Over the years, I’ve learned that most businesses don’t care what framework you use, they care about results. That’s why 
