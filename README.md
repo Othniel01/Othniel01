@@ -41,7 +41,7 @@ across Nigeria. I work well in agile environments, collaborate effectively, and 
 <h1>SKILLS</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,css,react,figma,nextjs,ts,python,threejs,tailwind,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,js,react,figma,nextjs,ts,python,postgres,fastapi,flask,threejs,tailwind,nodejs" />
   </a>
 </p>
 
