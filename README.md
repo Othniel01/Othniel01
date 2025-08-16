@@ -27,10 +27,10 @@ across Nigeria. I work well in agile environments, collaborate effectively, and 
 
 <ul>
   <li>🌍 I'm based in Abuja, Nigeria...</li>
-  <li>🧠 I'm learning React Js...</li>
+  <li>🧠 I'm always learning.</li>
   <li>📺 See my Portfolio at <a href="https://velvety-praline-91889a.netlify.app">Othniel</a>...</li>
   <li>📩 You can contact me at <a href="mailto:othnielabalaka@gmail.com">othnielabalaka@gmail.com</a>...</li>
-  <li>⚡️ I learn fast...</li>
+  <li>⚡️ Work fast...</li>
   <li>🤝 I am open to any collaborations on Projects that will help me as a developer</li>
 </ul>
 
