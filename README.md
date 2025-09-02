@@ -46,7 +46,7 @@ across Nigeria. I work well in agile environments, collaborate effectively, and 
 </p>
 
 <h1>ACTIVITY</h1>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othniel01&layout=compact&theme=dark&hide_border=false" /></p>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Othniel01&theme=soft-green&hide_border=true&card_width=380" alt="" onerror="this.style.display='none';" />
     <img alt="Othniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Othniel01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=08DC4D&icon_color=08DC4D" height="192px" width="400px"/>  
 </div>
