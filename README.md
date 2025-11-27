@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 OTHNIEL ABALAKA (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/Othniel01) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/Othniel01)
+# 👋 Hi i'm OTHNIEL 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9B1EB1&width=635&lines=Talented+Software+Engineer;Open-source+contributor;Interested+in+AI%2FML+engineering;Computer+scientist+researcher;Amateur+Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000&width=635&lines=Talented+Software+Engineer;Open-source+contributor;Interested+in+AI%2FML+engineering;Computer+scientist+researcher;Amateur+Gamer)](https://git.io/typing-svg)
 
 <p>
 Hi, I’m Othniel, a full-stack software engineer with 3+ years of experience building products that power real businesses.
